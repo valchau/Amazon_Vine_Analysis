@@ -6,35 +6,22 @@ This project analyzes the Amazon Reviews written by members of the paid Vine pro
 The analysis used Python's PySpark library to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into a postgreSQL database consisting of several tables, using pgAdmin4 on a Windows 10 platform and calculate different metrics as required. 
 
 ## Resources
-•	Data Source: Amazon Review datasets, Video Games Review dataset
-•	Software: Google Colab Notebooks, PostgreSQL 11.9, pgAdmin 4 version 6.19, AWS RDS Database Instance
+* Data Source: Amazon Review datasets, Video Games Review dataset
+* Software tools: Google Colab Notebooks, PostgreSQL 11.9, pgAdmin 4 version 6.19, AWS RDS Database Instance (access using jdbc)
 
-##Results
-Total number of reviews
-•	Vine reviews
- 
-
-
-•	Non-Vine reviews
- 
+## Results
+Paid Vine Reviews Data:
+* Total Vine reviews
+* Total number of 5 star reviews
+* Percentage 5 star reviews
 
 
-Total number of 5-star reviews
-•	Vine reviews
- 
 
+Non-Vine Reviews Data:
+* Total Non-Vine reviews
+* Total number of 5 star Non-Vine reviews
+* Percentage Non-Vine 5 star reviews 
 
-•	Non-Vine reviews
- 
-
-
-Percentage of 5-star reviews
-•	Vine reviews
- 
-
-
-•	Non-Vine reviews
- 
 
 
 Summary
