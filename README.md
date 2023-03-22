@@ -15,7 +15,10 @@ Paid Vine Reviews Data:
 * Total number of 5 star reviews
 * Percentage 5 star reviews
 
+The image below shows the analysis code and results: <br>
 
+<img src="https://github.com/valchau/Amazon_Vine_Analysis/blob/main/PaidVineReviewsData.PNG" alt="paid reviewer results" >
+<br>
 
 Non-Vine Reviews Data:
 * Total Non-Vine reviews
