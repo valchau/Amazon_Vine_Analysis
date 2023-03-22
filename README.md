@@ -17,7 +17,7 @@ Paid Vine Reviews Data:
 
 The image below shows the analysis code and results: <br>
 
-<img src="https://github.com/valchau/Amazon_Vine_Analysis/blob/main/PaidVineReviewsData.PNG" alt="paid reviewer results" max-width=50% >
+<img src="https://github.com/valchau/Amazon_Vine_Analysis/blob/main/PaidVineReviewsData.PNG" alt="paid reviewer results" width="400" height="500" >
 <br>
 
 Non-Vine Reviews Data:
