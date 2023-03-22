@@ -27,7 +27,7 @@ Non-Vine Reviews Data:
 * Total number of 5 star Non-Vine reviews, of this set of unpaid reviews, only 15,663 were 5 star.
 * Percentage Non-Vine 5 star reviews was about 39%, which is more reasonable than the 51% above for the paid reviews.
 
-<img src="https://github.com/valchau/Amazon_Vine_Analysis/blob/main/UnpaidVineReviewsData.PNG" alt=" non paid reviewer results" width="500" height="500" >
+<img src="https://github.com/valchau/Amazon_Vine_Analysis/blob/main/UnpaidReviewsData.PNG" alt=" non paid reviewer results" width="500" height="500" >
 <br>
 
 
